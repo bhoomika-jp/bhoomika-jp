@@ -16,25 +16,22 @@ Here are some ideas to get you started:
 ### Hey! I'm Bhoomika 👋
 ### Welcome to my GitHub profile :) I'm Bhoomika, an MSBA student at the University of Utah, aspiring Data Scientist, currently living in Utah. 
 
-- 🔭 I’m currently working on 'Iris' ML project in R
+- 🔭 I’m currently working on 'Sound of Freedom' Sentiment Analysis
 - 🌱 I’m currently learning how to solve ML problems in Python and R
-- 💬 Ask me about ... [A COOL PROJECT YOU DID]
+- 💬 Ask me about GDP Data Analysis Project
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: [ANY FUN FACT]
+- ⚡ Fun fact: 
 - 🤝 Connect with me on LinkedIn: www.linkedin.com/in/bhoomikajohn
 - 🎈 In my free time, I like to read, do yoga, spend time with my family...
   
 This is where I keep my code and projects. Feel free to look around and contact me if you have questions.
 
 ### 👨‍💻 Data Projects I've Made:
-## [Project Name]
-[Project Description]
+## GDP Data Analysis in Python
+This project aims to analyze GDP of all the countries over 100 years and derive valuable insights and conclusions using data analysis and visualizations in Python (pandas, numpy, matplotlib, seaborn)
 
-## [Project Name]
-[Project Description]
-
-## [Project Name]
-[Project Description]
+## Video Games Sales Data Analysis
+This project aims to analyze video games sales data and derive valuable insights and recommendations using data analysis and visualizations in Python (pandas, numpy, matplotlib, seaborn)
 
 ### 📫 How to reach me: 
 #### Email: bhoomikajohn97@gmail.com
