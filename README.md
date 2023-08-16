@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hey! I'm Bhoomika 👋
-### Welcome to my GitHub profile :) I'm Bhoomika, an MSBA student at the University of Utah, aspiring Data Scientist, currently living in Utah. 
+### Welcome to my GitHub profile :) I'm Bhoomika, an MSBA student at the University of Utah, aspiring ML Engineer, currently living in Utah. 
 
 - 🔭 I’m currently working on 'Sound of Freedom' Sentiment Analysis
 - 🌱 I’m currently learning how to solve ML problems in Python and R
