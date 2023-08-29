@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning how to solve ML problems in Python and R
 - 💬 Ask me about GDP Data Analysis Project
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I am a hyonobirthing enthusiast
 - 🤝 Connect with me on LinkedIn: www.linkedin.com/in/bhoomikajohn
 - 🎈 In my free time, I like to read, do yoga, spend time with my family...
   
