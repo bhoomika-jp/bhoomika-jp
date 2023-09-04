@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 This is where I keep my code and projects. Feel free to look around and contact me if you have questions.
 
 ### 👨‍💻 Data Projects I've Made:
+
+## Predicting House Prices with Gradient Boosting Regressor
+This project aims to predict house prices on a given data set with 80 predictors. I have utilized pandas, numpy and scikit-learn to preprocess the data and train and test a gradient boosting regressor model. Documented in Jupyter notebook
+
 ## GDP Data Analysis in Python
 This project aims to analyze GDP of all the countries over 100 years and derive valuable insights and conclusions using data analysis and visualizations in Python (pandas, numpy, matplotlib, seaborn)
 
