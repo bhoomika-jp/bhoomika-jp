@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 ### Hey! I'm Bhoomika 👋
 ### Welcome to my GitHub profile :) I'm Bhoomika, an MSBA student at the University of Utah, aspiring ML Engineer, currently living in Utah. 
 
-- 🔭 I’m currently working on 'Sound of Freedom' Sentiment Analysis
+- 🔭 I’m currently working on a Sentiment Analysis Project
 - 🌱 I’m currently learning how to solve ML problems in Python and R
-- 💬 Ask me about GDP Data Analysis Project
+- 💬 Ask me about Predicting House Prices Project
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a hyonobirthing enthusiast!
 - 🤝 Connect with me on LinkedIn: www.linkedin.com/in/bhoomikajohn
