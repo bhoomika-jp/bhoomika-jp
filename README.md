@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hey! I'm Bhoomika 👋
 ### Welcome to my GitHub profile :) I'm Bhoomika, an MSBA student at the University of Utah, aspiring ML Engineer, currently living in Utah. 
 
-- 🔭 I’m currently working on an IMDB Sentiment Analysis and a Maverick Time-Series Forecasting Problem
+- 🔭 I’m currently working on Maverick Time-Series Forecasting Problem
 - 🌱 I’m currently learning how to solve ML problems in Python and R
 - 💬 Ask me about Predicting House Prices Project
 - 😄 Pronouns: She/Her
@@ -31,11 +31,11 @@ This is where I keep my code and projects. Feel free to look around and contact 
 ## Predicting House Prices with Gradient Boosting Regressor
 This project aims to predict house prices on a given data set with 80 predictors. I have utilized pandas, numpy and scikit-learn to preprocess the data and train and test a gradient boosting regressor model. Documented in Jupyter notebook
 
+## IMDB Sentiment Analysis
+This project aims to classify movie reviews as positive or negative. I have utilized NLP techniques and Python libraries (NLTK and Scikit-Learn) to accurately classify user sentiments. Utilized GPU and documented in Google Colab. 
+
 ## GDP Data Analysis in Python
 This project aims to analyze GDP of all the countries over 100 years and derive valuable insights and conclusions using data analysis and visualizations in Python (pandas, numpy, matplotlib, seaborn)
-
-## Video Games Sales Data Analysis
-This project aims to analyze video games sales data and derive valuable insights and recommendations using data analysis and visualizations in Python (pandas, numpy, matplotlib, seaborn)
 
 ### 📫 How to reach me: 
 #### Email: bhoomikajohn97@gmail.com
