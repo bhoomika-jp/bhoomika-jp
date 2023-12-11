@@ -31,7 +31,7 @@ This is where I keep my code and projects. Feel free to look around and contact 
 ## Predicting House Prices 
 This project aims to predict house prices on a given data set with 80 predictors. I have utilized pandas, numpy and scikit-learn to preprocess the data and train and test a gradient boosting regressor model. Documented in Jupyter notebook
 
-## IMDB Sentiment Analysis
+## Movie Reviews Sentiment Analysis
 This project aims to classify movie reviews as positive or negative. I have utilized NLP techniques and Python libraries (NLTK and Scikit-Learn) to accurately classify user sentiments. Utilized GPU and documented in Google Colab. 
 
 ## GDP Data Analysis in Python
