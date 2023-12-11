@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 ### Hey! I'm Bhoomika 👋
 ### Welcome to my GitHub profile :) I'm an aspiring ML Engineer, recent MSBA graduate from the University of Utah, currently living in Utah. 
 
-- 🔭 I’m currently working on Maverick Time-Series Forecasting Problem
-- 🌱 I’m currently learning how to solve ML problems in Python and R
-- 💬 Ask me about Predicting House Prices Project
+- 🔭 I’m currently working on developing Power BI reports around topics I am passionate about like mental health, fashion etc.
+- 🌱 I’m currently learning how to solve ML problems in Python
+- 💬 Ask me about Maverik Forecasting project
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a hyonobirthing enthusiast!
 - 🤝 Connect with me on LinkedIn: www.linkedin.com/in/bhoomikajohn
@@ -26,7 +26,10 @@ Here are some ideas to get you started:
   
 This is where I keep my code and projects. Feel free to look around and contact me if you have questions.
 
-### 👨‍💻 Data Projects I've Made:
+### 👨‍💻 Data Projects I've Made
+
+## Forecasting Sales for a New Maverik Store
+Project assigned by Maverik. Time series analysis and rolling forecast of sales for a new Maverik store's first year of sales, incorporating trend and seasonality using Prophet. MSBA case competition winner.
 
 ## Predicting House Prices 
 This project aims to predict house prices on a given data set with 80 predictors. I have utilized pandas, numpy and scikit-learn to preprocess the data and train and test a gradient boosting regressor model. Documented in Jupyter notebook
