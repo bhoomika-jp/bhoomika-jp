@@ -42,7 +42,7 @@ This project aims to analyze GDP of all the countries over 100 years and derive 
 
 
 ### 📫 How to reach me: 
-#### Email: bhoomikajohn97@gmail.com
+#### Email: bhoomika.john@gmail.com
 #### LinkedIn: www.linkedin.com/in/bhoomikajohn
 
 
