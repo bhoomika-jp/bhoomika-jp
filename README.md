@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   
 This is where I keep my code and projects. Feel free to look around and contact me if you have questions.
 
-### 👨‍💻 Data Projects I've Made:
+### 👨‍💻 [Data Projects I've Made](https://github.com/bhoomika-jp/Portfolio/tree/main#portfolio):
 
 ### Forecasting Sales for a New Maverik Store
 Project assigned by Maverik. Time series analysis and rolling forecast of sales for a new Maverik store's first year of sales, incorporating trend and seasonality using Prophet. MSBA case competition winner.
@@ -39,6 +39,7 @@ This project aims to classify movie reviews as positive or negative. I have util
 
 ### GDP Data Analysis in Python
 This project aims to analyze GDP of all the countries over 100 years and derive valuable insights and conclusions using data analysis and visualizations in Python (pandas, numpy, matplotlib, seaborn)
+
 
 ### 📫 How to reach me: 
 #### Email: bhoomikajohn97@gmail.com
