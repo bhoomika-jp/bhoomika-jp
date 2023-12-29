@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hey! I'm Bhoomika 👋
 ### Welcome to my GitHub profile :) I'm an aspiring ML Engineer, recent MSBA graduate from the University of Utah, currently living in Utah. 
 
-- 🔭 I’m currently working on developing Power BI reports around topics I am passionate about like mental health, fashion etc.
+- 🔭 I’m currently working on Data Analysis projects using SQL and Tableau etc.
 - 🌱 I’m currently learning how to solve ML problems in Python
 - 💬 Ask me about Maverik Forecasting project
 - 😄 Pronouns: She/Her
