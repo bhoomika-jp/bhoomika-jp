@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hey! I'm Bhoomika 👋
-### Welcome to my GitHub profile :) I'm an aspiring ML Engineer, recent MSBA graduate from the University of Utah, currently living in Utah. 
+### I am a recent Masters in Business Analytics graduate from the University of Utah and am currently seeking a job in data analysis that will give me the opportunity to utilize my skills in SQL and Data Visualization. I enjoy answering complex questions and solving problems using different kinds of data analysis techniques inlcuding predictive analytics. Work that I am proud of include 'Maverik Time-Series Forecasting', 'House Prices Prediction' and 'World Life Expectancy' among others that are listed below. Feel free to check them out by following the links. 
 
 - 🔭 I’m currently working on Data Analysis projects using SQL and Tableau etc.
 - 🌱 I’m currently learning how to solve ML problems in Python
@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - 🤝 Connect with me on LinkedIn: www.linkedin.com/in/bhoomikajohn
 - 🎈 In my free time, I like to read, do yoga, spend time with my family...
   
-This is where I keep my code and projects. Feel free to look around and contact me if you have questions.
 
 ### 👨‍💻 [My Data Projects](https://github.com/bhoomika-jp/Portfolio/tree/main#portfolio):
 
