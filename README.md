@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ## Data Analysis 
 
 ### SQL
-- [World Life Expectancy (Data Cleaning and Analaysis)](https://github.com/bhoomika-jp/World-Life-Expectancy): Cleaned the data in MySQL, handling missing values, calculating new columns etc. and then used the transformed data to carry out exploratory data analysis, finding insights into which countries have the highest and lowest life expectancies by GDP, Developed vs. Developing, BMI etc.
+- [World Life Expectancy (Data Cleaning and Analysis)](https://github.com/bhoomika-jp/World-Life-Expectancy): Cleaned the data in MySQL, handling missing values, calculating new columns etc. and then used the transformed data to carry out exploratory data analysis, finding insights into which countries have the highest and lowest life expectancies by GDP, Developed vs. Developing, BMI etc.
 
 ### Python
 - [GDP Data Analysis](https://github.com/bhoomika-jp/GDP-Data-Analysis): Analyzed GDP for all the countries over 100 years and derived valuable insights and conclusions using data analysis and visualizations in Python (pandas, numpy, matplotlib, seaborn). Gapminder dataset. 
