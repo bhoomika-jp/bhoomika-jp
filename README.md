@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 [My Data Projects](https://github.com/bhoomika-jp/Portfolio/tree/main#portfolio):
 
-## Data Analysis 
+## Data Engineering / Analysis 
 
 ### SQL
 - [World Life Expectancy (Data Cleaning and Analysis)](https://github.com/bhoomika-jp/World-Life-Expectancy): Cleaned the data in MySQL, handling missing values, calculating new columns etc. and then used the transformed data to carry out exploratory data analysis, finding insights into which countries have the highest and lowest life expectancies by GDP, Developed vs. Developing, BMI etc.
