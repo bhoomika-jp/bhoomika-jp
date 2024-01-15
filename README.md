@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### Work that I am proud of include 'Maverik Time-Series Forecasting', 'House Prices Prediction' and 'World Life Expectancy Data Analysis' among others that are listed below. Feel free to check them out by following the links. My professional goals also include solving important problems using machine learning and artificial intelligence.
 
 - 🔭 I’m currently working on a BigQuery project to gain data engineering experience
-- 🌱 I’m currently learning how to clean and analyze data in SQL using advanced querying techniques
+- 🌱 I’m currently learning how to clean and analyze data in SQL by writing advanced and efficient queries
 - 💬 Ask me about Maverik Forecasting project
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a hyonobirthing enthusiast!
