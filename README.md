@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - [House Prices Prediction](https://github.com/bhoomika-jp/Predicting-House-Prices): Predicted house prices on a given data set with 80 predictors. I have utilized pandas, numpy and scikit-learn to preprocess the data and train and test a gradient boosting regressor model. Documented in Jupyter notebook. Data from kaggle. 
 - [Movie Reviews Sentiment Analysis](https://github.com/bhoomika-jp/Movie-Reviews-Sentiment-Analysis): Machine learning model for sentiment analysis on IMDb movie reviews, utilizing NLP techniques and Python libraries (NLTK and Scikit-Learn) to accurately classify user sentiment as positive or negative.
 - [Iris Classification](https://github.com/bhoomika-jp/Machine_Learning_Mastery/blob/main/Iris__ML.ipynb): Iris flower classification based on its features.
-- 
+  
 ## Data Engineering / Analysis 
 
 ### SQL
