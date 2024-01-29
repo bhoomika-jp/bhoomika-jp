@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ### Hey! I'm Bhoomika 👋
-#### I am a recent Masters in Business Analytics graduate from the University of Utah and am currently seeking a job in data that will give me the opportunity to utilize my skills in SQL and python. I enjoy answering complex questions and solving problems using different kinds of data analysis techniques and machine learning. I aspire to be an ML Engineer.
-#### Work that I am proud of include 'Maverik Time-Series Forecasting', 'House Prices Prediction' and 'World Life Expectancy Data Analysis' among others that are listed below. Feel free to check them out by following the links. My professional goals also include solving important problems using machine learning and artificial intelligence.
+#### I am a recent Masters in Business Analytics graduate from the University of Utah and am currently seeking an entry level job in data science that will give me the opportunity to utilize my skills in SQL and python. I enjoy answering complex questions and solving problems using different kinds of data analysis techniques and machine learning. I especially enjoy building prediction models and aspire to be an ML Engineer.
+#### Work that I am proud of include 'Maverik Time-Series Forecasting', 'House Prices Prediction' and 'World Life Expectancy Data Analysis' among others that are listed below. Feel free to check them out by following the links. My professional goals include solving important problems using machine learning and artificial intelligence.
 
 - 🔭 I’m currently working on a BigQuery project to gain data engineering experience
 - 🌱 I’m currently learning how to clean and analyze data in SQL by writing advanced and efficient queries
@@ -28,6 +28,13 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 [My Data Projects](https://github.com/bhoomika-jp/Portfolio/tree/main#portfolio):
 
+## Machine Learning (Python)
+
+- [Maverik Time-Series Forecasting](https://github.com/bhoomika-jp/Maverik-Sales-Forecasting): Project assigned and data provided by Maverik. Time series analysis and rolling forecast of sales for a new Maverik store's first year of sales, incorporating seasonality using Prophet. MSBA case competition winner.
+- [House Prices Prediction](https://github.com/bhoomika-jp/Predicting-House-Prices): Predicted house prices on a given data set with 80 predictors. I have utilized pandas, numpy and scikit-learn to preprocess the data and train and test a gradient boosting regressor model. Documented in Jupyter notebook. Data from kaggle. 
+- [Movie Reviews Sentiment Analysis](https://github.com/bhoomika-jp/Movie-Reviews-Sentiment-Analysis): Machine learning model for sentiment analysis on IMDb movie reviews, utilizing NLP techniques and Python libraries (NLTK and Scikit-Learn) to accurately classify user sentiment as positive or negative.
+- [Iris Classification](https://github.com/bhoomika-jp/Machine_Learning_Mastery/blob/main/Iris__ML.ipynb): Iris flower classification based on its features.
+- 
 ## Data Engineering / Analysis 
 
 ### SQL
@@ -38,12 +45,6 @@ Here are some ideas to get you started:
 - [Video Games Sales Analysis](https://github.com/bhoomika-jp/Video-Games-Sales-Analysis): Analyzed video games sales data and derived valuable insights and recommendations using data analysis and visualizations in Python (pandas, numpy, matplotlib, seaborn). Kaggle dataset. 
 - [Netflix Data Analysis](https://github.com/bhoomika-jp/MSBA-Coursework/blob/main/Netflix/Bhoomika_Final_Project.ipynb): My first ever data analysis in python using pandas, numpy and matplotlib. Completed for a beginner python class during MSBA. 
   
-## Machine Learning (Python)
-
-- [Maverik Time-Series Forecasting](https://github.com/bhoomika-jp/Maverik-Sales-Forecasting): Project assigned and data provided by Maverik. Time series analysis and rolling forecast of sales for a new Maverik store's first year of sales, incorporating seasonality using Prophet. MSBA case competition winner.
-- [House Prices Prediction](https://github.com/bhoomika-jp/Predicting-House-Prices): Predicted house prices on a given data set with 80 predictors. I have utilized pandas, numpy and scikit-learn to preprocess the data and train and test a gradient boosting regressor model. Documented in Jupyter notebook. Data from kaggle. 
-- [Movie Reviews Sentiment Analysis](https://github.com/bhoomika-jp/Movie-Reviews-Sentiment-Analysis): Machine learning model for sentiment analysis on IMDb movie reviews, utilizing NLP techniques and Python libraries (NLTK and Scikit-Learn) to accurately classify user sentiment as positive or negative.
-- [Iris Classification](https://github.com/bhoomika-jp/Machine_Learning_Mastery/blob/main/Iris__ML.ipynb): Iris flower classification based on its features.
 
 ## Data Visualization (Power BI, Tableau)
 
