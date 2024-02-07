@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - [Movie Reviews Sentiment Analysis](https://github.com/bhoomika-jp/Movie-Reviews-Sentiment-Analysis): Machine learning model for sentiment analysis on IMDb movie reviews, utilizing NLP techniques and Python libraries (NLTK and Scikit-Learn) to accurately classify user sentiment as positive or negative.
 - [Iris Classification](https://github.com/bhoomika-jp/Machine_Learning_Mastery/blob/main/Iris__ML.ipynb): Iris flower classification based on its features.
   
-## Data Engineering / Analysis 
+## Data Analysis 
 
 ### SQL
 - [World Life Expectancy (Data Cleaning and Analysis)](https://github.com/bhoomika-jp/World-Life-Expectancy): Cleaned the data in MySQL, handling missing values, calculating new columns etc. and then used the transformed data to carry out exploratory data analysis, finding insights into which countries have the highest and lowest life expectancies by GDP, Developed vs. Developing, BMI etc.
