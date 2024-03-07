@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 ## Machine Learning (Python)
 
 - [Maverik Time-Series Forecasting](https://github.com/bhoomika-jp/Maverik-Sales-Forecasting): Project assigned and data provided by Maverik. Time series analysis and rolling forecast of sales for a new Maverik store's first year of sales, incorporating seasonality using Prophet. MSBA case competition winner.
-- [House Prices Prediction](https://github.com/bhoomika-jp/Predicting-House-Prices): Predicted house prices on a given data set with 80 predictors. I have utilized pandas, numpy and scikit-learn to preprocess the data and train and test a gradient boosting regressor model. Documented in Jupyter notebook. Data from kaggle. 
+- [House Prices Prediction](https://github.com/bhoomika-jp/Predicting-House-Prices): Predicted house prices on a given data set with 80 predictors. I have utilized pandas, numpy and scikit-learn to preprocess the data and train and test a gradient boosting regressor model. Documented in Jupyter notebook. Data from kaggle.
+- [Image Classification Hugging Face](https://github.com/bhoomika-jp/Image_Classification_Hugging_Face/tree/main): Learned how to classify images using visions transformers and other computer vision tools, following a tutorial on Data Camp.
 - [Movie Reviews Sentiment Analysis](https://github.com/bhoomika-jp/Movie-Reviews-Sentiment-Analysis): Machine learning model for sentiment analysis on IMDb movie reviews, utilizing NLP techniques and Python libraries (NLTK and Scikit-Learn) to accurately classify user sentiment as positive or negative.
 - [Iris Classification](https://github.com/bhoomika-jp/Machine_Learning_Mastery/blob/main/Iris__ML.ipynb): Iris flower classification based on its features.
   
