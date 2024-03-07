@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 #### I am a recent Masters in Business Analytics graduate from the University of Utah and am currently seeking an entry level job in data science that will give me the opportunity to utilize my skills in SQL and python. I enjoy answering complex questions and solving problems using different kinds of data analysis techniques and machine learning. I especially enjoy building prediction models and aspire to be an ML Engineer.
 #### Work that I am proud of includes 'Maverik Time-Series Forecasting', 'House Prices Prediction' and 'World Life Expectancy Data Analysis' among others that are listed below. Feel free to check them out by following the links. My professional goals include solving important problems using machine learning and artificial intelligence.
 
-- 🔭 I’m currently working on a BigQuery project to gain data engineering experience
-- 🌱 I’m currently learning how to clean and analyze data in SQL by writing advanced and efficient queries
+- 🔭 I’m currently working on a Computer Vision project, training a model to detect threats accurately
+- 🌱 I’m currently learning about data modelling, reading 'The Data Warehouse Toolkit' by Kimball Ross
 - 💬 Ask me about Maverik Forecasting project
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a hyonobirthing enthusiast!
 - 🤝 Connect with me on LinkedIn: www.linkedin.com/in/bhoomikajohn
-- 🎈 In my free time, I like to read, do yoga, spend time with my family...
+- 🎈 In my free time, I like to cook international cuisines, read, do yoga, spend time with my family...
   
 
 ### 👨‍💻 [My Data Projects](https://github.com/bhoomika-jp/Portfolio/tree/main#portfolio):
