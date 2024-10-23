@@ -14,14 +14,17 @@ Here are some ideas to get you started:
 -->
 
 ### Hey! I'm Bhoomika 👋
-#### I am a recent Masters in Business Analytics graduate from the University of Utah and am currently seeking an entry level job in data science that will give me the opportunity to utilize my skills in SQL and python. I enjoy answering complex questions and solving problems using different kinds of data analysis techniques and machine learning. I especially enjoy building prediction models and aspire to be an ML Engineer.
+#### I am currently a data engineer with over 6 months of experience in building and monitoring ETL pipelines in SAP Data Services (utilising dimensional modelling concepts), and creating and maintaining semantic models and reports in Power BI. I am passionate about machine learning and AI which was my focus while obtaining a Masters in Business Analytics from the University of Utah. For my capstone, my team developed a time-series forecasting model for Maverik which won first place in a case competition. 
+
+#### I enjoy answering complex questions and solving problems using different kinds of data analysis techniques and machine learning. I especially enjoy building prediction models and aspire to be an ML Engineer. I am currently learning and working on building and deploying an AI app on a cloud platform.
+
 #### Work that I am proud of includes 'Maverik Time-Series Forecasting', 'House Prices Prediction' and 'World Life Expectancy Data Analysis' among others that are listed below. Feel free to check them out by following the links. My professional goals include solving important problems using machine learning and artificial intelligence.
 
-- 🔭 I’m currently working on a Computer Vision project, training a model to detect threats accurately
-- 🌱 I’m currently learning about data modelling, reading 'The Data Warehouse Toolkit' by Kimball Ross
-- 💬 Ask me about Maverik Forecasting project
+- 🔭 I’m currently working on building an AI app hosted on a cloud environment
+- 🌱 I’m currently learning how to build real world ML products
+- 💬 Ask me about my current AI project
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am a hyonobirthing enthusiast!
+- ⚡ Fun fact: I am a hyonobirthing enthusiast and I am learning French.
 - 🤝 Connect with me on LinkedIn: www.linkedin.com/in/bhoomikajohn
 - 🎈 In my free time, I like to cook international cuisines, read, do yoga, spend time with my family...
   
