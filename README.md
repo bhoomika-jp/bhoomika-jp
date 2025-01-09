@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hey! I'm Bhoomika 👋
-#### I am currently a data engineer with over 6 months of experience in building and monitoring ETL pipelines in SAP Data Services (utilising dimensional modelling concepts), and creating and maintaining semantic models and reports in Power BI. I am passionate about machine learning and AI which was my focus while obtaining a Masters in Business Analytics from the University of Utah. For my capstone, my team developed a time-series forecasting model for Maverik which won first place in a case competition. 
+#### I am currently a data engineer with over 1 year of experience in building and monitoring ETL pipelines in SAP Data Services (utilising dimensional modelling concepts), and creating and maintaining semantic models and reports in Power BI. I am passionate about machine learning and AI which was my focus while obtaining a Masters in Business Analytics from the University of Utah. For my capstone, my team developed a time-series forecasting model for Maverik which won first place in a case competition. 
 
 #### I enjoy answering complex questions and solving problems using different kinds of data analysis techniques and machine learning. I especially enjoy building prediction models and aspire to be an ML Engineer. I am currently learning and working on building and deploying an AI app on a cloud platform.
 
